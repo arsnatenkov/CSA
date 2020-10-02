@@ -14,7 +14,6 @@ section '.data' data readable writable
         o db '%d', 10, 0
         strVecElemOut db '[%d] = %d', 10, 0
         strResultB db 'B: ', 10, 0
-        strKeks db 'AAAAA', 10, 0
 
         vec_size dd 0
         vec_size2 dd 0
@@ -231,7 +230,6 @@ section '.code' code readable executable
 
                 call outputingElementsB
 
-                push strKeks
                 call [printf]
 
         finish:
