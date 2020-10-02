@@ -1,3 +1,5 @@
+;Variant 2
+;Array B of A elements whose value does not match the first and last A elements
 format PE console
 entry start
 
