@@ -78,7 +78,7 @@ start:
         jmp calcColl1
 
 calcColl1:
-;checking
+;checking first three points
         mov eax, [x1]
         mul [y2]
         mov [temp1], eax
@@ -110,11 +110,11 @@ calcColl1:
         sub [tempLeft], eax
 
         cmp [tempLeft], 0
-        je calcColl2
-        jne wasted 
+        je calcColl2 ;if tempLeft equals zero we check second three point
+        jne wasted ;else they don't collinear
 
 calcColl2:
-;checking
+;checking second three points
         mov eax, [x2]
         mul [y3]
         mov [temp1], eax
@@ -146,11 +146,11 @@ calcColl2:
         sub [tempLeft], eax     
 
         cmp [tempLeft], 0
-        je calcColl3
-        jne wasted
+        je calcColl3 ;if tempLeft equals zero we check third three point
+        jne wasted ;else they don't collinear
 
 calcColl3:
-;checking
+;checking third three points
         mov eax, [x3]
         mul [y4]
         mov [temp1], eax
@@ -182,8 +182,8 @@ calcColl3:
         sub [tempLeft], eax
 
         cmp [tempLeft], 0
-        je good
-        jne wasted
+        je good ;if last three point collinear we go to good
+        jne wasted ;else they don't collinear
 
 wasted: 
 ; Not collinear
