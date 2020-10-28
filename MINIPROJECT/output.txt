@@ -1,0 +1,8 @@
+Первый набор точек:
+Collinear
+Второй набор точек:
+Not collinear
+Третий набор точек:
+Collinear
+Четвертый набор точек:
+Not collinear
