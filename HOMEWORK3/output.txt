@@ -1,0 +1,5 @@
+Здесь просто находятся результаты выполнения. Программа не выводит результат в файл
+1) Pooh located 10 10
+2) Pooh wasn't in the forest
+3) Pooh wasn't in the forest
+4) Pooh located 3 7

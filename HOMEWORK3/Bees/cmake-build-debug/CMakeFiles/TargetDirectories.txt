@@ -1,0 +1,3 @@
+C:/Users/snate/CLionProjects/Bees/cmake-build-debug/CMakeFiles/Bees.dir
+C:/Users/snate/CLionProjects/Bees/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/snate/CLionProjects/Bees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
