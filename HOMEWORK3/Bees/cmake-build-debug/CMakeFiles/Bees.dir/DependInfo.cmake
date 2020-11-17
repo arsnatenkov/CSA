@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/snate/CLionProjects/Bees/main.cpp" "C:/Users/snate/CLionProjects/Bees/cmake-build-debug/CMakeFiles/Bees.dir/main.cpp.obj"
+  "C:/Users/snate/Desktop/ABC/CSA/HOMEWORK3/Bees/main.cpp" "C:/Users/snate/Desktop/ABC/CSA/HOMEWORK3/Bees/cmake-build-debug/CMakeFiles/Bees.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
