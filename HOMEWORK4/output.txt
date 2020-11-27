@@ -1,0 +1,6 @@
+Здесь просто находятся результаты выполнения. Программа не выводит результат в файл
+1) Pooh located 35 85
+2) Pooh located 11 4
+3) Pooh located 3 7
+4) Pooh located 8 18
+5) Pooh located 10 10
