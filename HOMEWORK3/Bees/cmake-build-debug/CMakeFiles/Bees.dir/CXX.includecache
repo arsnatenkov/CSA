@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/snate/CLionProjects/Bees/main.cpp
+C:/Users/snate/Desktop/ABC/CSA/HOMEWORK3/Bees/main.cpp
 iostream
 -
 pthread.h
@@ -14,5 +14,7 @@ pthread.h
 vector
 -
 random
+-
+ctime
 -
 
