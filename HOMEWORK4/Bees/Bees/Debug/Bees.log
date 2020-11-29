@@ -1,0 +1,3 @@
+﻿  Bees.cpp
+C:\Users\snate\source\repos\Bees\Bees\Bees.cpp(57,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Bees.vcxproj -> C:\Users\snate\source\repos\Bees\Debug\Bees.exe
