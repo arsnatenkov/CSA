@@ -1,0 +1,3 @@
+C:/Users/snate/CLionProjects/Programmists/cmake-build-debug/CMakeFiles/Programmists.dir
+C:/Users/snate/CLionProjects/Programmists/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/snate/CLionProjects/Programmists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
